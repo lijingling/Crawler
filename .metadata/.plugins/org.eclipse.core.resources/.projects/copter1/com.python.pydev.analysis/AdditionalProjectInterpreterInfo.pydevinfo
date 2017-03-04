@@ -1,0 +1,43 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/home/ljl/workspace/eclipse/Crawler/.metadata/.plugins/org.eclipse.core.resources/.projects/copter1/com.python.pydev.analysis/v2_indexcache
+copter4|1483516983000000000|/home/ljl/workspace/eclipse/Crawler/copter1/copter4.py
+copter3|1483507610000000000|/home/ljl/workspace/eclipse/Crawler/copter1/copter3.py
+copter2|1483500420000000000|/home/ljl/workspace/eclipse/Crawler/copter1/copter2.py
+copter1|1483497617000000000|/home/ljl/workspace/eclipse/Crawler/copter1/copter1.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+4=copter4
+5=MyThread
+1=copter3
+2=copter2
+3=copter1
+6=MyThread.__init__
+-- END DICTIONARY
+-- START TREE 1
+13
+dat|3|dataWebsite2!11@data!19@dataWebsite1!11@
+htm|2|html!27@html!19@
+ind|2|index!27@index!19@
+log|2|login_website!35@login_fun!34@
+myt|1|MyThread!33@
+num|1|number!27@
+pwd|2|pwd!11@pwd_website!35@
+res|1|result!11@
+rul|1|ruler!27@
+s|1|s!11@
+tok|2|token1!11@token2!11@
+web|5|website!19@website2!27@website1!11@website!27@website2!11@
+wro|2|wrongNotify!11@wrongNotify!19@
+-- END TREE
+-- START TREE 2
+7
+__i|1|__init__!5&34@
+cou|1|count!5&35@
+exi|1|exit!5&35@
+pwd|1|pwdlist!5&35@
+run|1|run!5&34@
+s|2|s!6&35@s!5&35@
+thr|1|thread!5&35@
+-- END TREE
